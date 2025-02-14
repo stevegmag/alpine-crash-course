@@ -24,7 +24,7 @@ tutorialList:
 
 ## Tutorial List:
   - [Alpine.js Crash Course (Net Ninja): ](https://www.youtube.com/watch?v=a3Cso8JDUys&list=PL4cUxeGkcC9jdM7vsVj6stC4rN8OsP2Co)
-  - Playlist has repo link
+  - [Playlist has repo link:](https://github.com/iamshaunjp/alpine-crash-course/tree/main)
 
 ## TODOS: (maybe)
   - [X] get project set up
